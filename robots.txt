@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cluck.github.io/al-folio/sitemap.xml
+Sitemap: https://cluck.github.io/sitemap.xml
