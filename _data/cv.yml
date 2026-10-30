@@ -75,5 +75,6 @@
         - Random Oracle Model Instantiation
         - Standard Model Proofs of Knowledge
     - title: (Post-)Quantum Cryptography
+      items:
         - Quantum Random Oracle Model Proofs
         - Post-Quantum Instantiation
