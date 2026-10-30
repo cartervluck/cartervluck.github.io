@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a MS/PhD student at the University of Massachusetts, Amherst Manning College of Information and Computer Sciences studying theoretical cryptography under <a href='https://groups.cs.umass.edu/oneill'/>Dr. Adam O'Neill</a>. My interests lie in instantiating idealized models of cryptography. I have received my BA in Computer Science from Reed College in 2024, and previously worked on secure auditing of AI models in the Cleverhans lab at the Vector Institute at the University of Toronto.
+I am a MS/PhD student at the University of Massachusetts, Amherst Manning College of Information and Computer Sciences studying theoretical cryptography under <a href='https://groups.cs.umass.edu/oneill'>Dr. Adam O'Neill</a>. My interests lie in instantiating idealized models of cryptography. I have received my BA in Computer Science from Reed College in 2024, and previously worked on secure auditing of AI models in the Cleverhans lab at the Vector Institute at the University of Toronto.
